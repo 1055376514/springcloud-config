@@ -1,0 +1,2 @@
+config: 
+ info: "springcloud-conf/config-test.yml version: 1"
